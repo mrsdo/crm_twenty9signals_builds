@@ -1,0 +1,11 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/.name
+.idea/crm_twenty9signals_www_builds.iml
+.idea/deployment.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/webServers.xml
+Gemfile
+Gemfile.lock

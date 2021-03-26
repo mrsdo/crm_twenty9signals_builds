@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="twenty9signals.com" id="90936739-08e8-4fc9-aa78-eb0436966b88" port="22" nameFormat="DESCRIPTIVE" username="twenty45" />
+    </configs>
+  </component>
+</project>
