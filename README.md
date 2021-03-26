@@ -1,10 +1,10 @@
-# Sinatra-MySQL Resource Manager
+# Sinatra-MySQL Property Listings Resource
 
-## Flatiron School Phase 2 Requirement
+## Flatiron School Phase 2 Requirement/Assessment
 
 ### Overview
 
-This Resource Manager domain composed of 3 main models, Listing, User, and Roles. The models will relate to each other
+This Resource Manager domain composed of 3 main models, Listing, User, and HOA. The models will relate to each other
 and collaborate heavily.
 
 This project presents concepts such as var_instantiated_object = class.method.action
